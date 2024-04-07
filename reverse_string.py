@@ -22,6 +22,6 @@ def reverse_string(ans):
         reversed_string+=stack.pop()
     return reversed_string
 
-ans="SaakarBigya"
+ans="SaakarLovesBigya"
 reversed_string=reverse_string(ans)
 print(reversed_string)
