@@ -3,6 +3,8 @@ class TreeNode:
         self.key = key
         self.left = None
         self.right = None
-        
 class BinarySearchTree:
-    pass
+    def __init__(self):
+        pass
+
+# git 
