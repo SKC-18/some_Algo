@@ -13,3 +13,4 @@ class BinarySearchTree:
 
     def _insert(self, node, key):
         pass
+    # Still left to do 
